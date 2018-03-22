@@ -4,5 +4,8 @@
 > applicationContext.xml(Spring配置文件)  
 > spring-mvc.xml(springmvc 配置文件)  
 
+<<<<<<< HEAD
  shengsheng 
  tangtang
+=======
+>>>>>>> 3f5bd02d7b273b3d80a7042057f337923479ff6e
