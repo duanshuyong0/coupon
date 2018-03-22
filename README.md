@@ -4,5 +4,3 @@
 > applicationContext.xml(Spring配置文件)  
 > spring-mvc.xml(springmvc 配置文件)  
 
- shengsheng 
- tangtang
